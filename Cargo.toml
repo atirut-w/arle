@@ -1,7 +1,10 @@
 [package]
 name = "arle"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
+repository = "https://github.com/atirut-w/arle"
+description = "Adaptive Run-Length Encoder"
+readme = "README.md"
 
 [dependencies]
 byteorder = "1.5.0"
